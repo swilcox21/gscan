@@ -533,12 +533,12 @@
   dependencies:
     long-timeout "^0.1.1"
 
-"@tryghost/config@0.2.9":
-  version "0.2.9"
-  resolved "https://registry.yarnpkg.com/@tryghost/config/-/config-0.2.9.tgz#0739335a0ac622c756c8b7f8b2e759989c67e985"
-  integrity sha512-xnlZAKCaQ7ML8LCJsDBQYPeRpw2rnDqXjyKSGy5LqnKpknPhz7D16YHiAssL8Wel15RUp5F1bNAsTdUHN2JbiA==
+"@tryghost/config@0.2.11":
+  version "0.2.11"
+  resolved "https://registry.yarnpkg.com/@tryghost/config/-/config-0.2.11.tgz#b9036458c75c40807731403d0e0f79e8cf7ec349"
+  integrity sha512-0QsKPUXqmSvIo7CPj26grITu/NQlfQ33pfXjV3J1yNTLnwEX4h+ljcW2PtScV1VTGcFoOp63IMXXblLqcSecTg==
   dependencies:
-    "@tryghost/root-utils" "^0.3.15"
+    "@tryghost/root-utils" "^0.3.17"
     nconf "^0.12.0"
 
 "@tryghost/debug@0.1.17":
