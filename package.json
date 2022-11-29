@@ -42,7 +42,7 @@
   "dependencies": {
     "@sentry/node": "7.22.0",
     "@tryghost/config": "0.2.9",
-    "@tryghost/debug": "0.1.17",
+    "@tryghost/debug": "0.1.19",
     "@tryghost/errors": "1.2.18",
     "@tryghost/logging": "2.3.4",
     "@tryghost/pretty-cli": "1.2.31",
